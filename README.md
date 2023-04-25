@@ -18,4 +18,4 @@ Then, it defines the refractive index of water (`n_water`) and converts the prod
 
 The code then plots the Cherenkov radiation spectrum for each speed using a for loop. It calculates the beta factor for each speed, calls the `frank_tamm` function with the wavelength range and beta factor, and plots the intensity as a function of wavelength.
  # Result
- 
+ ![Foo](foo.png)
